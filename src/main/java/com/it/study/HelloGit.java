@@ -3,8 +3,9 @@ package com.it.study;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("hello!");
-		System.out.println("更新1!");
-		System.out.println("创建分支");
+		System.out.println("赂眉脨脗1!");
+		System.out.println("麓麓陆篓路脰脰搂");
+	System.out.println("鍦ㄧ嚎鏇存柊");
 	}
 
 }
